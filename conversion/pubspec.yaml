@@ -1,6 +1,6 @@
 name: conversion
-description: A new Flutter package project.
-version: 0.0.1
+description: A handy flutter package that helps you convert values.
+version: 1.0.0
 homepage:
 
 environment:
