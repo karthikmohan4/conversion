@@ -1,7 +1,8 @@
 name: conversion
 description: A handy flutter package that helps you convert values.
 version: 1.0.0
-homepage:
+repositry: https://github.com/karthikmohan4/conversion/tree/main/conversion
+homepage: https://github.com/karthikmohan4/conversion/tree/main/conversion
 
 environment:
   sdk: '>=2.18.2 <3.0.0'

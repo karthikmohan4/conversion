@@ -36,6 +36,7 @@ class Convert {
     return conversion.convertHexToDecimal(hexString: hexString!);
   }
 
+//radias to degree
   List<int> decimalToOctal({required List<int>? values}) {
     return conversion.convertDecimalToOctal(decimalValues: values!);
   }
