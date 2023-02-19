@@ -108,7 +108,11 @@ Anyone can contribute & make this package more flexible.
 You can connect with me at 
 <div id="badges">
   <a href="https://www.linkedin.com/in/karthik-m-68374a170/">
-    <img src="https://www.freepik.com/free-icon/linkedin_14070215.htm#query=linkedin&position=11&from_view=search&track=sph" alt="LinkedIn Badge"/>
+  LinkedIn
   </a>
-</div>
+  
+  <a href="mkarthik556@gmail.com">
+  gmail
+  </a>
+  </div>
 
