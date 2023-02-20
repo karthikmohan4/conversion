@@ -1,6 +1,6 @@
 name: conversion
 description: A handy flutter package that helps you convert values.
-version: 1.0.0
+version: 1.0.0+1
 repository: https://github.com/karthikmohan4/conversion/tree/main/conversion
 homepage: https://github.com/karthikmohan4/conversion/tree/main/conversion
 
