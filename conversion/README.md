@@ -40,7 +40,7 @@ import 'package:conversion/conversion.dart';
 ## Usage
 
 ```dart
-  Conversion conversion = Conversion();
+  Conversion convert = Conversion();
 ```
 
 To convert from decimal to hex string
